@@ -1,7 +1,11 @@
 ## Final Submission: Pattern 1
 
-# Topic: Airbnb analysis for Boston and Seattle
+# Topic: Analysis of Airbnb data for Boston and Seattle
 <img src= "https://github.com/battalwara/battalwar_ankeeta_spring2017/blob/master/final/2000px-Airbnb_Logo_B%C3%A9lo.svg.png" width=700>
+
+## Introduction
+Whether an apartment for a night, a castle for a week, or a villa for a month, Airbnb connects people to unique travel experiences, at any price point, in more than 65,000 cities and 191 countries. It is one of the fastest growing holiday website.
+Airbnb is a trusted community marketplace for people to list, discover, and book unique accommodations around the world — online or from a mobile phone or tablet.The users include hosts and travelers: hosts list and rent out their unused spaces, and travelers search for and book accommodations in most countries worldwide.
 
 ## Table of Contents
 
