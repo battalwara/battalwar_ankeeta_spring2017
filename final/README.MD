@@ -5,36 +5,33 @@
 
 ## Table of Contents
 
-  * [Final Submission: Pattern 1](#final-submission--pattern-1)
-- [Topic: Airbnb analysis for Boston and Seattle](#topic--airbnb-analysis-for-boston-and-seattle)
-  * [Table of Contents](#table-of-contents)
   * [Data for Analysis](#data-for-analysis)
   * [Data Wrangling](#data-wrangling)
-  * [Packages used:](#packages-used-)
-  * [Types of graphs plotted:](#types-of-graphs-plotted-)
+  * [Packages used](#packages-used-)
+  * [Types of graphs plotted](#types-of-graphs-plotted-)
   * [Analysis 1: Using Boston data](#analysis-1--using-boston-data)
     + [1. Availability of the listings over days](#1-availability-of-the-listings-over-days)
-      - [Conclusion:](#conclusion-)
+     
     + [2. Price variations of listings across the year for data available](#2-price-variations-of-listings-across-the-year-for-data-available)
-      - [Conclusion:](#conclusion--1)
+      
   * [Analysis 2: Using Boston data](#analysis-2--using-boston-data)
     + [1. Increase in the poularity of Airbnb, based on addition of new hosts.](#1-increase-in-the-poularity-of-airbnb--based-on-addition-of-new-hosts)
-      - [Conclusion:](#conclusion--2)
+     
     + [2. Number of apartments listed at the different prices.](#2-number-of-apartments-listed-at-the-different-prices)
-      - [Conclusion:](#conclusion--3)
+      
     + [3. Number of reviews based on the listing price.](#3-number-of-reviews-based-on-the-listing-price)
-      - [Conclusion:](#conclusion--4)
+     
     + [4. Variations in Price based on Apartment Type](#4-variations-in-price-based-on-apartment-type)
-      - [Conclusion:](#conclusion--5)
+     
   * [Analysis 3: Comparison of both cities based on Calendar data](#analysis-3--comparison-of-both-cities-based-on-calendar-data)
     + [Comparison of Price of listing based on month-of-year](#comparison-of-price-of-listing-based-on-month-of-year)
-      - [Conclusion:](#conclusion--6)
+     
   * [Analysis 4: Comparison of both cities based on reviews](#analysis-4--comparison-of-both-cities-based-on-reviews)
     + [Number of visitors visiting the two cities during different times of the year](#number-of-visitors-visiting-the-two-cities-during-different-times-of-the-year)
-      - [Conclusion:](#conclusion--7)
+     
   * [Analysis 5: Comparison of both cities based on Listings data](#analysis-5--comparison-of-both-cities-based-on-listings-data)
     + [1. Variations in Price based on Neighborhoods in Boston and Seattle](#1-variations-in-price-based-on-neighborhoods-in-boston-and-seattle)
-      - [Conclusion:](#conclusion--8)
+     
     + [2. Using NLTK package to find most common words used in listings for both cities.](#2-using-nltk-package-to-find-most-common-words-used-in-listings-for-both-cities)
 
 <small><i><a href='http://ecotrust-canada.github.io/markdown-toc/'>Table of contents generated with markdown-toc</a></i></small>
