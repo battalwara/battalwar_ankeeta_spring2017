@@ -13,9 +13,13 @@
 - matplotlib and seaborn for plotting
 - nltk.word_tokenize
 
-## Analysis 1
+## Types of graphs plotted: 
+Line graph, Bar graph, Scatter plot, Box plot
+
+## Analysis 1: Using Boston data
 Analysis of the 'calendar.csv' file for Boston Airbnb data for the following information:
-#### 1. Availability of the listings over days
+
+### 1. Availability of the listings over days
   <img src= "https://github.com/battalwara/battalwar_ankeeta_spring2017/blob/master/final/analysis/analysis-1/Output1.jpg" width=700>
   
 ### Conclusion:
@@ -26,3 +30,34 @@ The above graph shows us the trend of busiest days in Boston between September 2
 
 ### Conclusion: 
 The above graph shows the trend for average price of listings over the month-year data available. We can infer that as the Airbnb app got popular, the average prices have remained about the same close to 150 dollars , as compared to around 200 dollars in September 2016.
+
+## Analysis 2: Using Boston data
+Analysis of the 'listings.csv' file for Boston Airbnb data for the following information:
+
+### 1. Increase in the poularity of Airbnb, based on addition of new hosts.
+  <img src= "https://github.com/battalwara/battalwar_ankeeta_spring2017/blob/master/final/analysis/analysis-2/Output1.jpg" width=700>
+  
+### Conclusion:
+The number of new hosts has increased drastically over the years of 2014-2016, with maximum users joining Airbnb in mid 2014. 
+
+### 2. Number of apartments listed at the different prices.
+  <img src= "https://github.com/battalwara/battalwar_ankeeta_spring2017/blob/master/final/analysis/analysis-2/Output2.jpg" width=700>
+
+### Conclusion:
+- There are more than 2500 listings at price range of 0-200 dollars while the number of apartments listed above 500 dollars is very less.
+- This strongly supports the idea of Airbnb which is focused on providing affordable housing for travelers.
+
+### 3. Number of reviews based on the listing price.
+  <img src= "https://github.com/battalwara/battalwar_ankeeta_spring2017/blob/master/final/analysis/analysis-2/Output3.jpg" width=700>
+
+### Conclusion:
+- Above graph shows a scatter plot mapping the number of reviews for the listings vs their price
+- We can see that affordable and economic apartment listings hav more number of reviews as compared to high-end expensive apartment listings.
+
+### 4. Variations in Price based on Apartment Type
+  <img src= "https://github.com/battalwara/battalwar_ankeeta_spring2017/blob/master/final/analysis/analysis-2/Output4.jpg" width=700>
+  
+### Conclusion:
+- Above Box plot shows variation in prices based on the type of apartment.
+- Box plot is more informative as it gives us the median/mean value, as well as the upper and lower whiskers (Scores outside the middle 50% values)
+- Here, comparing on median values, we can see that fancy apartment tyes such as boats and villas are most expensive while dorms, townhouses and B&Bs are cheapest.
