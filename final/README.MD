@@ -77,7 +77,7 @@ Comparison and analysis of the 'calendar.csv' file for Boston and Seattle Airbnb
 Comparison and analysis of the 'reviews.csv' file for Boston and Seattle Airbnb data for the following information:
 
 ### Number of visitors visiting the two cities during different times of the year
-   <img src= "https://github.com/battalwara/battalwar_ankeeta_spring2017/blob/master/final/analysis/analysis-4/Output.jpg" width=800>
+  <!-- <img src= "https://github.com/battalwara/battalwar_ankeeta_spring2017/blob/master/final/analysis/analysis-4/Output.jpg" width=800> -->
    
 #### Conclusion:
 - In Boston, we can see number of visitors is maximum in the months of july-september
