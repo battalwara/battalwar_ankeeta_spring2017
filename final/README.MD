@@ -89,7 +89,7 @@ Comparison and analysis of the 'reviews.csv' file for Boston and Seattle Airbnb 
 Comparison and analysis of the 'listings.csv' file for both Boston and Seattle Airbnb data for the following information:
 
 ### 1. Variations in Price based on Neighborhoods in Boston and Seattle
-  <img src= "https://github.com/battalwara/battalwar_ankeeta_spring2017/blob/master/final/analysis/analysis-5/Output1.jpg" width=800>
+  <img src= "https://github.com/battalwara/battalwar_ankeeta_spring2017/blob/master/final/analysis/analysis-5/Output.jpg" width=800>
   
 #### Conclusion:
 - Above Box plots shows variation in prices based on the neighborhoods for Boston and seattle.
