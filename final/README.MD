@@ -62,22 +62,22 @@ The number of new hosts has increased drastically over the years of 2014-2016, w
 - Box plot is more informative as it gives us the median/mean value, as well as the upper and lower whiskers (Scores outside the middle 50% values)
 - Here, comparing on median values, we can see that fancy apartment tyes such as boats and villas are most expensive while dorms, townhouses and B&Bs are cheapest.
 
-## Analysis 3: Comparison of both cities
+## Analysis 3: Comparison of both cities based on Calendar data
 Comparison and analysis of the 'calendar.csv' file for Boston and Seattle Airbnb data for the following information:
 
 ### Comparison of Price of listing based on month-of-year
-   <img src= "https://github.com/battalwara/battalwar_ankeeta_spring2017/blob/master/final/analysis/analysis-3/Output.jpg" width=700>
+   <img src= "https://github.com/battalwara/battalwar_ankeeta_spring2017/blob/master/final/analysis/analysis-3/Output.jpg" width=800>
    
 #### Conclusion:
 - Based on the plot, most expensive time of the year in Boston is November and December
 - In seattle, prices are quite constant across the year with little variation
 - Comparatively, prices in Boston are much higher as compared to Seattle. Thus, we can conclude that Boston is more expensive than seattle
 
-## Analysis 4: Comparison of both cities
+## Analysis 4: Comparison of both cities based on reviews
 Comparison and analysis of the 'reviews.csv' file for Boston and Seattle Airbnb data for the following information:
 
 ### Number of visitors visiting the two cities during different times of the year
-   <img src= "https://github.com/battalwara/battalwar_ankeeta_spring2017/blob/master/final/analysis/analysis-4/Output.jpg" width=700>
+   <img src= "https://github.com/battalwara/battalwar_ankeeta_spring2017/blob/master/final/analysis/analysis-4/Output.jpg" width=800>
    
 #### Conclusion:
 - In Boston, we can see number of visitors is maximum in the months of july-september
@@ -85,7 +85,7 @@ Comparison and analysis of the 'reviews.csv' file for Boston and Seattle Airbnb 
 - On an average, number of visitors in Seattle is higher than number of visitors in Boston, based on Airbnb data. This can be seen in the period of Sep. 2014- Dec. 2015
 
 
-## Analysis 5: Comparison of both cities
+## Analysis 5: Comparison of both cities based on Listings data
 Comparison and analysis of the 'listings.csv' file for both Boston and Seattle Airbnb data for the following information:
 
 ### 1. Variations in Price based on Neighborhoods in Boston and Seattle
@@ -97,14 +97,5 @@ Comparison and analysis of the 'listings.csv' file for both Boston and Seattle A
 - Here, comparing on median values, we can see that:
     1. In Boston, most expensive areas are Harvard Square, Downtown Crossing, Financial Distict and the cheapest places to rent Airbnbs are Hyde Park and Mattapan
     2. In Seattle, most expensive areas are Fairmount park, Industrial District and the cheapest places to rent Airbnbs are in Holly Park and Olympic Hills.
+    
 ### 2. Using NLTK package to find most common words used in listings for both cities.
-
-### Number of visitors visiting the two cities during different times of the year
-   <img src= "https://github.com/battalwara/battalwar_ankeeta_spring2017/blob/master/final/analysis/analysis-4/Output.jpg" width=700>
-   
-#### Conclusion:
-- In Boston, we can see number of visitors is maximum in the months of july-september
-- The same trend is seen in Seattle.
-- On an average, number of visitors in Seattle is higher than number of visitors in Boston, based on Airbnb data. This can be seen in the period of Sep. 2014- Dec. 2015
-
-### 2. Using NLTK package to compare most common words used in listing descriptions
