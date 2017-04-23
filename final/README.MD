@@ -1,8 +1,9 @@
-# Final Submission: Pattern 1
+## Final Submission: Pattern 1
 
 # Topic: Airbnb analysis for Boston and Seattle
+<img src= "https://github.com/battalwara/battalwar_ankeeta_spring2017/blob/master/final/2000px-Airbnb_Logo_B%C3%A9lo.svg.png" width=700>
 
-# Table of Contents
+## Table of Contents
 
 ## Data for Analysis
 - I've used the Airbnb data available online for the cities Boston and Seattle
