@@ -5,6 +5,37 @@
 
 ## Table of Contents
 
+  * [Data for Analysis](#data-for-analysis)
+  * [Data Wrangling](#data-wrangling)
+  * [Packages used:](#packages-used-)
+  * [Types of graphs plotted:](#types-of-graphs-plotted-)
+  * [Analysis 1: Using Boston data](#analysis-1--using-boston-data)
+    + [1. Availability of the listings over days](#1-availability-of-the-listings-over-days)
+      
+    + [2. Price variations of listings across the year for data available](#2-price-variations-of-listings-across-the-year-for-data-available)
+     
+  * [Analysis 2: Using Boston data](#analysis-2--using-boston-data)
+    + [1. Increase in the poularity of Airbnb, based on addition of new hosts.](#1-increase-in-the-poularity-of-airbnb--based-on-addition-of-new-hosts)
+      
+    + [2. Number of apartments listed at the different prices.](#2-number-of-apartments-listed-at-the-different-prices)
+      
+    + [3. Number of reviews based on the listing price.](#3-number-of-reviews-based-on-the-listing-price)
+      
+    + [4. Variations in Price based on Apartment Type](#4-variations-in-price-based-on-apartment-type)
+      
+  * [Analysis 3: Comparison of both cities based on Calendar data](#analysis-3--comparison-of-both-cities-based-on-calendar-data)
+    + [Comparison of Price of listing based on month-of-year](#comparison-of-price-of-listing-based-on-month-of-year)
+
+  * [Analysis 4: Comparison of both cities based on reviews](#analysis-4--comparison-of-both-cities-based-on-reviews)
+    + [Number of visitors visiting the two cities during different times of the year](#number-of-visitors-visiting-the-two-cities-during-different-times-of-the-year)
+    
+  * [Analysis 5: Comparison of both cities based on Listings data](#analysis-5--comparison-of-both-cities-based-on-listings-data)
+    + [1. Variations in Price based on Neighborhoods in Boston and Seattle](#1-variations-in-price-based-on-neighborhoods-in-boston-and-seattle)
+     
+    + [2. Using NLTK package to find most common words used in listings for both cities.](#2-using-nltk-package-to-find-most-common-words-used-in-listings-for-both-cities)
+
+<small><i><a href='http://ecotrust-canada.github.io/markdown-toc/'>Table of contents generated with markdown-toc</a></i></small>
+
 ## Data for Analysis
 - I've used the Airbnb data available online for the cities Boston and Seattle
 - Each folder contains the following files:
