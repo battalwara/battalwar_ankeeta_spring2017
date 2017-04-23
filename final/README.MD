@@ -1,2 +1,2 @@
 ABCD:
-op1: https://github.com/battalwara/battalwar_ankeeta_spring2017/blob/master/final/analysis/analysis-1/Output1.jpg
+![OP1](https://github.com/battalwara/battalwar_ankeeta_spring2017/blob/master/final/analysis/analysis-1/Output1.jpg)
